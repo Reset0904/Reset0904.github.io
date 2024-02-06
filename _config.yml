@@ -1,22 +1,22 @@
 # Site settings
 title: Chaoyi Zhang
 description: 'Academic introduction'
-url: 'https://reset0904.github.io/'
+url: 'https://reset0904.github.io'
 baseurl: ''
 profilepic: '/images/tzuehlke.jpg'
 bkimage: '/images/bk1.jpg'
 google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
 
-author: 
-  name: 'Chaoyi Zhang'
-  email: Zhangchy93@mail2.sysu.edu.cn
-  #mastodon: 
-  #twitter_username: 
-  #facebook_username: 
-  github_username:  Reset0904
-  #linkedin_username:  
- # meetup_name: Azure-Meetup-Rostock-MV
+author:
+  name: 'ChaoyiZhang'
+  email: zhangchy93@mail2.sysu.edu.cn
+#  mastodon: tzuehlke@mstdn.social
+#  twitter_username: thomzuehlke
+#  facebook_username: joshgerdes
+  github_username:  reset0904
+#  linkedin_username:  thomas-zühlke-889182165
+#  meetup_name: Azure-Meetup-Rostock-MV
 
 # Build settings
 destination: _site
